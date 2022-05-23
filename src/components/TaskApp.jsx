@@ -7,6 +7,10 @@ const TaskApp = () => {
   return (
     <div data-cy="task-app" className={styles.taskApp}>
       {/* Header */}
+      <div className="header1">
+        <h1>Todo List</h1>
+        <p>You Have </p>
+      </div>
       {/* Add Task */}
       {/* Tasks */}
     </div>

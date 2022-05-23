@@ -1,3 +1,13 @@
-.counter {
-  /* TODO */
+ .counter {
+  /* border: 1px solid red; */
+  width: 8%;
+  
+} 
+.btn{
+  background-color: #8197e8;
+  color: white;
+  border: 1px solid #8197e8;
+  width: 20%;
+  margin-right: 10px;
+  margin-left: 10px;
 }
